@@ -1,3 +1,1 @@
-# LGM-VIP-Task-1
-
-Static Website: "Digital Art Gallery"
+Static Website: Photograpgy Blog (Digital Art Gallery)
